@@ -99,6 +99,7 @@ v1.1.0 · commit `8bf7eb6` · golden sets `418b7670…` and `19ecd576…` · Ant
 ## Links
 
 - [Code](https://github.com/vvanegasar/cielo-bench)
+- [Technical report (DOI)](https://doi.org/10.5281/zenodo.24481194)
 - [DOI (Zenodo)](https://doi.org/10.5281/zenodo.24441942)
 - [Results note](https://github.com/vvanegasar/cielo-bench/blob/main/docs/results/2026-11-first-real-runs.md)
 - [Method](https://github.com/vvanegasar/cielo-bench/blob/main/docs/EVALS.md)
