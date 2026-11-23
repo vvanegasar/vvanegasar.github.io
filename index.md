@@ -18,7 +18,7 @@ Valentina Vanegas Aristizábal is an economist and AI and technology leader. As 
 ## Selected work
 
 - [AI agents in production](https://vvanegasar.github.io/work/agents-in-production.md): An MCP server that connects a SaaS product for US architecture and engineering firms to Claude, ChatGPT and Grok, and AI voice agents on real sales calls. Status: In production.
-- [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md): Check or agree? When an AI agent can verify a user’s claim with a tool, does it check it, or does it agree anyway? An open benchmark with deterministic scoring and no LLM judge. Status: Built and validated with simulated agents · Real-model results pending.
+- [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md): Check or agree? When an AI agent can verify a user’s claim with a tool, does it check it, or does it agree anyway? An open benchmark with deterministic scoring and no LLM judge. Status: Validated with simulated agents · First real-model results, Nov 2026.
 - [Sisbén IV data pipeline](https://vvanegasar.github.io/work/sisben-etl.md): The first Power BI dashboard of Antioquia’s Planning Department and the Python pipeline behind it, built on ~25M records of Sisbén, the survey Colombia uses to target social programs. Status: Covers all 125 municipalities.
 - [A team and its products](https://vvanegasar.github.io/work/team-and-product.md): Three developers across six products, from the first conversation with a customer to the production release. Status: Reporting to the CEO.
 

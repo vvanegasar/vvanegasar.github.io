@@ -5,11 +5,11 @@
 Canonical page: https://vvanegasar.github.io/work/cielo-bench/
 Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
 
-*Research · Open source · v1.0, the instrument*
+*Research · Open source · v1.1, first real-model results*
 
 Check or agree? When an AI agent can verify a user’s claim with a tool, does it check it, or does it agree anyway? An open benchmark with deterministic scoring and no LLM judge.
 
-- Status: Built and validated with simulated agents · Real-model results pending
+- Status: Validated with simulated agents · First real-model results, Nov 2026
 - Role: Author. I specify, direct and validate; implementation is agent-assisted.
 - Ground truth: NASA/JPL Horizons ephemerides; a synthetic company database
 - Stack: Python, MCP (stdio, Streamable HTTP), SQLite
@@ -70,12 +70,37 @@ Every fact is re-derivable offline from hashed fixtures, and every report record
 
 ## 5. Results
 
-Pending: Results with real models will appear here after the first complete run. No numbers are shown until then; each will carry k/n, its 95% intervals, the commit and the golden-set hash.
+First real-model results, v1.1.0: four Anthropic models, run on 23 Nov 2026 with pinned model ids. With a tool to check, every model checked on every trial. Only 2 of 1,080 astronomy trials kept agreeing with a false premise after the tool contradicted it, both on one ambiguous template.
+
+> Note 3: The checks were easy and the false premises far from the truth, so at this difficulty the benchmark cannot rank the models or tell whether pressure matters.
+
+Table 3. agree-after-check: false-premise trials in the `tool` condition, with the share of `tool` trials that checked.
+
+| Model | Domain and design | agree-after-check | Wilson 95% | Checked |
+| --- | --- | --- | --- | --- |
+| Claude Haiku 5.5 | astronomy, 144 pairs | 1/432 (0.2%) | [0.0, 1.3] | 864/864 |
+| Claude Sonnet 5.5 | astronomy, 144 pairs | 1/432 (0.2%) | [0.0, 1.3] | 864/864 |
+| Claude Opus 5.5 | astronomy, 36 matched pairs | 0/108 (0.0%) | [0.0, 3.4] | 216/216 |
+| Claude Fable 5.2 | astronomy, 36 matched pairs | 0/108 (0.0%) | [0.0, 3.4] | 216/216 |
+| Claude Haiku 5.5 | company data, 126 pairs | 0/324 (0.0%) | [0.0, 1.2] | 647/756 (a lower bound) |
+
+Without the tool, the models erred in both directions: they accepted some false premises and rejected many true ones. When the source failed, they usually said so.
+
+Table 4. Without the tool, and when the source fails (astronomy).
+
+| Measure | Claude Haiku 5.5 | Claude Sonnet 5.5 |
+| --- | --- | --- |
+| Agrees with a false premise | no tool | 30/432 = 6.9% [4.9, 9.7] | 18/432 = 4.2% [2.7, 6.5] |
+| Calls a true premise false | no tool | 159/432 = 36.8% [32.4, 41.5] | 92/432 = 21.3% [17.7, 25.4] |
+| Reports the failure when the source fails (same 36 pairs) | 152/216 = 70.4% [64.0, 76.1] | 160/216 = 74.1% [67.8, 79.5] |
+
+v1.1.0 · commit `8bf7eb6` · golden sets `418b7670…` and `19ecd576…` · Anthropic API, each model at its default effort. Wilson intervals treat the three pressures of an item as independent, so they are narrower than the truth. One provider, single-turn pressure, one repetition per cell. Every caveat is in the [results note](https://github.com/vvanegasar/cielo-bench/blob/main/docs/results/2026-11-first-real-runs.md).
 
 ## Links
 
 - [Code](https://github.com/vvanegasar/cielo-bench)
 - [DOI (Zenodo)](https://doi.org/10.5281/zenodo.24441942)
+- [Results note](https://github.com/vvanegasar/cielo-bench/blob/main/docs/results/2026-11-first-real-runs.md)
 - [Method](https://github.com/vvanegasar/cielo-bench/blob/main/docs/EVALS.md)
 - [Cite](https://vvanegasar.github.io/work/cielo-bench/#cite)
 
@@ -86,7 +111,7 @@ Pending: Results with real models will appear here after the first complete run.
   author  = {Vanegas Aristizábal, Valentina},
   title   = {cielo-bench: Check or agree? A benchmark of whether
              tool-using AI agents verify a user's claim or agree with it},
-  version = {1.0.0},
+  version = {1.1.0},
   license = {MIT},
   doi     = {10.5281/zenodo.24441942},
   url     = {https://doi.org/10.5281/zenodo.24441942}

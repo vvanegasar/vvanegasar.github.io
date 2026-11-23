@@ -24,7 +24,7 @@ What I’ve built, front by front. Work at the startup where I lead AI and techn
 
 | Year | Project | Field | Role | Status |
 | --- | --- | --- | --- | --- |
-| 2026 | [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md) | Research | Author | Built and validated with simulated agents · Real-model results pending |
+| 2026 | [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md) | Research | Author | Validated with simulated agents · First real-model results, Nov 2026 |
 
 ## Contact
 
