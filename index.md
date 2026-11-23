@@ -1,13 +1,13 @@
 # Valentina Vanegas Aristizábal
 
-> Economist and Head of AI & Technology working in AI, data science and software development: AI agents and an MCP server in production, and data pipelines.
+> Economist and AI leader. As Head of AI & Technology I lead AI and software development: LLM agents, MCP servers, automation, AI evaluation and data pipelines.
 
 Canonical page: https://vvanegasar.github.io/
 Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
 
 **Economist and AI leader. I learn fast, build across fields, and take ideas to production.**
 
-Valentina Vanegas Aristizábal is an economist and Head of AI & Technology who works across AI, data science and software development, building AI agents, MCP servers and data pipelines.
+Valentina Vanegas Aristizábal is an economist and AI and technology leader. As Head of AI & Technology she leads AI and software development: LLM agents, MCP servers, automation and data pipelines, and she evaluates how AI agents behave with people.
 
 ## Evidence
 

@@ -1,6 +1,6 @@
 # Valentina Vanegas Aristizábal
 
-> Valentina Vanegas Aristizábal is an economist and Head of AI & Technology who works across AI, data science and software development, building AI agents, MCP servers and data pipelines.
+> Valentina Vanegas Aristizábal is an economist and AI and technology leader. As Head of AI & Technology she leads AI and software development: LLM agents, MCP servers, automation and data pipelines, and she evaluates how AI agents behave with people.
 
 This site is the canonical profile of Valentina Vanegas Aristizábal, also known as Valentina Vanegas. The same person is https://www.linkedin.com/in/vvanegasa, https://github.com/vvanegasar, https://udemedellin.academia.edu/ValentinaVanegasAristiz%C3%A1bal and ORCID https://orcid.org/0009-0004-7133-9367. Every English page has a Markdown version (append .md, or use the links below), and the Spanish version is under https://vvanegasar.github.io/es/.
 
@@ -26,17 +26,17 @@ This site is the canonical profile of Valentina Vanegas Aristizábal, also known
 - [Diploma: Economista (Economics degree)](https://vvanegasar.github.io/records/diploma-economist-universidad-de-medellin.pdf): Universidad de Medellín, 4 Sep 2026. In Spanish. ID number and verification QR redacted.
 - [Letter of recommendation](https://vvanegasar.github.io/records/recommendation-letter-hector-mauricio-romero.pdf): Héctor Mauricio Romero Romero, Administrative Department of Planning, Government of Antioquia, Nov 2026. From her internship supervisor. In English.
 - [Internship certificate](https://vvanegasar.github.io/records/internship-certificate-government-of-antioquia.pdf): Government of Antioquia, Jun 2026. Internship at the Administrative Department of Planning, Feb – Jun 2026. In Spanish. ID number and other details redacted.
-- [Model UN coach certificate](https://vvanegasar.github.io/records/model-un-coach-certificate-upb.pdf): Universidad Pontificia Bolivariana, Sep 2025. Coach for public schools in Medellín, Apr – Sep 2025. In Spanish. ID and contract numbers redacted.
+- [Model UN coach certificate](https://vvanegasar.github.io/records/model-un-coach-certificate-upb.pdf): Universidad Pontificia Bolivariana, Sep 2025. Coach for public schools, Apr – Sep 2025. In Spanish. ID and contract numbers redacted.
 
 ## Talks and videos
 
 - Competitive debate and public speaking (Debater and speaker): [Video of her winning speech “Enseñar”](https://drive.google.com/file/d/1mznAkbU0yTpC-PwNxuhcnBjO0h7PYJ-Y/view) · [Video of her winning speech “Miradas”](https://drive.google.com/file/d/1ei7jD6XU3UOB3YAKpBlw5SK2-qCL5l6h/view) · [Video of her national Model UN award](https://drive.google.com/file/d/18s3QHgE0xDc9fU8o31kK04ACDEWNW8Yh/view)
-- Model UN Debate Coach (Coach, Universidad Pontificia Bolivariana, for public schools in Medellín, Apr – Sep 2025): [Certificate from the university, in Spanish](https://vvanegasar.github.io/records/model-un-coach-certificate-upb.pdf)
+- Model UN Debate Coach (Coach, Universidad Pontificia Bolivariana, for public schools, Apr – Sep 2025): [Certificate from the university, in Spanish](https://vvanegasar.github.io/records/model-un-coach-certificate-upb.pdf)
 - Measuring youth delinquency and victimization (Guest, Universidad de Medellín radio): [Video of her radio interview](https://drive.google.com/file/d/17ZwPro8l2_Z2qvwLUDNukrdhvPlkMuli/view)
 
 ## Pages
 
-- [Home](https://vvanegasar.github.io/index.md): Economist and Head of AI & Technology working in AI, data science and software development: AI agents and an MCP server in production, and data pipelines.
+- [Home](https://vvanegasar.github.io/index.md): Economist and AI leader. As Head of AI & Technology I lead AI and software development: LLM agents, MCP servers, automation, AI evaluation and data pipelines.
 - [Work](https://vvanegasar.github.io/work.md): AI agents and an MCP server in production, a team shipping six products, a ~25M-record data pipeline and cielo-bench: AI, data science and software development.
   - [AI agents in production](https://vvanegasar.github.io/work/agents-in-production.md): An MCP server that connects a SaaS product for US architecture and engineering firms to Claude, ChatGPT and Grok, and AI voice agents on real sales calls.
   - [A team and its products](https://vvanegasar.github.io/work/team-and-product.md): Three developers across six products, from the first conversation with a customer to the production release.

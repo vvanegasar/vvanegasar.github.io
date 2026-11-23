@@ -23,7 +23,7 @@ I’m open to remote work, travel and relocation, anywhere in the world.
 
 - **Head of AI & Technology**, A startup that builds software for architecture, engineering and insurance firms in the US (Jul 2026 – present). I lead a team of three developers across six products for architecture and engineering, P&C insurance, HR and PEO, construction and B2B data, reporting to the CEO. I decide what goes to production, put AI agents into production and lead product.
 - **Data & Economics Intern**, Planning Department, Government of Antioquia (Feb – Jun 2026). Built the department’s first Power BI dashboard, with Sisbén data by municipality (2021–2026), used by the Technical Director with all 125 municipalities, and the Python ETL behind it, over ~25M records. Spatial econometrics and support for the statistical yearbook.
-- **Model UN Debate Coach**, Universidad Pontificia Bolivariana, for public schools in Medellín (Apr – Sep 2025)
+- **Model UN Debate Coach**, Universidad Pontificia Bolivariana, for public schools (Apr – Sep 2025)
 - **Teaching Assistant, Intermediate Microeconomics**, Universidad de Medellín (Feb 2024 – Feb 2025)
 - **Research Assistant, ISRD4 (International Self-Report Delinquency Study)**, Universidad de Medellín (Feb – Apr 2023)
 
@@ -37,7 +37,7 @@ I’m open to remote work, travel and relocation, anywhere in the world.
 - [Diploma: Economista (Economics degree)](https://vvanegasar.github.io/records/diploma-economist-universidad-de-medellin.pdf) (PDF, 747 KB), Universidad de Medellín, 4 Sep 2026. In Spanish. ID number and verification QR redacted.
 - [Letter of recommendation](https://vvanegasar.github.io/records/recommendation-letter-hector-mauricio-romero.pdf) (PDF, 148 KB), Héctor Mauricio Romero Romero, Administrative Department of Planning, Government of Antioquia, Nov 2026. From the supervisor of my internship. In English.
 - [Internship certificate](https://vvanegasar.github.io/records/internship-certificate-government-of-antioquia.pdf) (PDF, 575 KB), Government of Antioquia, Jun 2026. Internship at the Administrative Department of Planning, Feb – Jun 2026. In Spanish. ID number and other details redacted.
-- [Model UN coach certificate](https://vvanegasar.github.io/records/model-un-coach-certificate-upb.pdf) (PDF, 770 KB), Universidad Pontificia Bolivariana, Sep 2025. Coach for public schools in Medellín, Apr – Sep 2025. In Spanish. ID and contract numbers redacted.
+- [Model UN coach certificate](https://vvanegasar.github.io/records/model-un-coach-certificate-upb.pdf) (PDF, 770 KB), Universidad Pontificia Bolivariana, Sep 2025. Coach for public schools, Apr – Sep 2025. In Spanish. ID and contract numbers redacted.
 
 Originals available on request.
 

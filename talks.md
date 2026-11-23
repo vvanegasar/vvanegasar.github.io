@@ -33,9 +33,9 @@ Presented the method behind my economics thesis, a spatial weights matrix for An
 
 ### Model UN Debate Coach
 
-*Coach · Universidad Pontificia Bolivariana, for public schools in Medellín · Apr – Sep 2025*
+*Coach · Universidad Pontificia Bolivariana, for public schools · Apr – Sep 2025*
 
-Hired by Universidad Pontificia Bolivariana to prepare students from public schools in Medellín for Model United Nations, through classes, simulations and mentoring.
+Hired by Universidad Pontificia Bolivariana to prepare students from public schools for Model United Nations, through classes, simulations and mentoring.
 
 - Classes on fallacies, negotiation, writing proposals, and debate and public speaking.
 
