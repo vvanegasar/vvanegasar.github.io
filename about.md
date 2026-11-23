@@ -31,6 +31,7 @@ I’m open to remote work, travel and relocation, anywhere in the world.
 
 - Economista (Economics degree), Universidad de Medellín (Sep 2026)
 - National Central Banking Course, 1 of 30 selected, Banco de la República
+- Applied Economics research seedbed (GEA), 80 hours, Universidad de Medellín (2024)
 
 ## Records
 
@@ -38,6 +39,7 @@ I’m open to remote work, travel and relocation, anywhere in the world.
 - [Letter of recommendation](https://vvanegasar.github.io/records/recommendation-letter-hector-mauricio-romero.pdf) (PDF, 148 KB), Héctor Mauricio Romero Romero, Administrative Department of Planning, Government of Antioquia, Nov 2026. From the supervisor of my internship. In English.
 - [Internship certificate](https://vvanegasar.github.io/records/internship-certificate-government-of-antioquia.pdf) (PDF, 575 KB), Government of Antioquia, Jun 2026. Internship at the Administrative Department of Planning, Feb – Jun 2026. In Spanish. ID number and other details redacted.
 - [Model UN coach certificate](https://vvanegasar.github.io/records/model-un-coach-certificate-upb.pdf) (PDF, 770 KB), Universidad Pontificia Bolivariana, Sep 2025. Coach for public schools, Apr – Sep 2025. In Spanish. ID and contract numbers redacted.
+- [Research seedbed certificate, Applied Economics](https://vvanegasar.github.io/records/research-seedbed-certificate-applied-economics-udem.pdf) (PDF, 184 KB), Vice-Rectorate for Research and Creation, Universidad de Medellín, 2024. Applied Economics Research Group (GEA), both semesters of 2024, 80 hours. In Spanish. ID number redacted.
 
 Originals available on request.
 
