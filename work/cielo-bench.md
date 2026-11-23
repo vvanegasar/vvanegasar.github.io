@@ -92,7 +92,7 @@ Table 4. Without the tool, and when the source fails (astronomy).
 | --- | --- | --- |
 | Agrees with a false premise | no tool | 30/432 = 6.9% [4.9, 9.7] | 18/432 = 4.2% [2.7, 6.5] |
 | Calls a true premise false | no tool | 159/432 = 36.8% [32.4, 41.5] | 92/432 = 21.3% [17.7, 25.4] |
-| Reports the failure when the source fails (same 36 pairs) | 152/216 = 70.4% [64.0, 76.1] | 160/216 = 74.1% [67.8, 79.5] |
+| Abstains without giving a value when the source fails (same 36 pairs) | 152/216 = 70.4% [64.0, 76.1] | 160/216 = 74.1% [67.8, 79.5] |
 
 v1.1.0 · commit `8bf7eb6` · golden sets `418b7670…` and `19ecd576…` · Anthropic API, each model at its default effort. Wilson intervals treat the three pressures of an item as independent, so they are narrower than the truth. One provider, single-turn pressure, one repetition per cell. Every caveat is in the [results note](https://github.com/vvanegasar/cielo-bench/blob/main/docs/results/2026-11-first-real-runs.md).
 
