@@ -17,18 +17,16 @@ _Described by type of client and by result. No client names, code or internal fi
 
 ## Abstract
 
-I design how the agents behave and decide what they’re allowed to do on their own. For the MCP server the rule is simple: the wider the blast radius of an action, the more a person is involved, and anything that leaves the firm, like an email or a text to a client, waits for a person’s approval in the app.
+I design how the agents behave and decide what they’re allowed to do on their own. For the MCP server the rule is simple: the assistant sees only what each person already can, and nothing reaches a client without a person’s yes.
 
 Most of what I fixed in the voice agents was conversation, not code: turn-taking, pacing and when to stay quiet. One lesson I keep: asking a model to stay silent can make it narrate its own silence.
 
 ## 1. MCP server with a human approval layer
 
 - Led the MCP server of a multi-tenant SaaS for US architecture and engineering firms, so each firm can work from Claude, ChatGPT or Grok. In production for every customer firm since October 2026, off by default so each firm’s admin opts in.
-- Designed the approval model for agent actions: three tiers by blast radius. Anything that reaches outside the firm (client email, SMS, the client portal) is always approved by a person in the app, with a per-firm switch and a 7-day undo.
-- Ran a security wave before opening it to real users, and shipped it with a post-deploy verification script and a kill switch.
+- Designed the human approval layer for agent actions, so nothing reaches a firm’s clients without a person’s yes in the app.
+- Scoped the assistant to see only what each user already can.
 - Managed the token budget of the tool catalog, with a full profile for some AI clients and a compact one for others.
-
-Figure 1. Agent actions by blast radius. Anything that leaves the firm, like an email or a text to a client, waits for a person’s approval in the app.
 
 ## 2. Voice AI
 
