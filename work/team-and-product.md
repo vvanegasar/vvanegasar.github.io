@@ -46,7 +46,8 @@ Figure 2. The six products, by industry, and my part in each.
 
 ## 4. Mobile apps
 
-- Took the mobile apps of Blueprint (architecture and engineering) and Agency Nexus (P&C insurance) to the App Store and Google Play (Nov 2026), a team app and a client app for each: I chose the stack (React Native with Expo), started the iOS base of both and directed the store listings, releases and review submissions.
+- Designed and launched the mobile apps of Blueprint (architecture and engineering) and Agency Nexus (P&C insurance) on the App Store and Google Play (Nov 2026), a team app and a client app for each: I designed the apps, chose the stack (React Native with Expo), started the iOS base of both and directed the store releases.
+- Rebranded the products. They used to share the company logo; now each product has its own, and the AI assistant has its own name and face.
 - On Blueprint I co-wrote the mobile code with a teammate.
 - Added a room scanner with LiDAR (Apple RoomPlan) to the architecture and engineering app.
 
