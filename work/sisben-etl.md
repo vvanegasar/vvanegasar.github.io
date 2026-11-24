@@ -50,4 +50,5 @@ Figure 1. From six raw annual snapshots to a dashboard by municipality, with the
 - Email: aristizabal56vane@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vvanegasa
 - GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
 - Contact form: https://vvanegasar.github.io/contact/

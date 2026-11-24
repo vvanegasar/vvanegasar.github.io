@@ -1,0 +1,602 @@
+# Valentina Vanegas Aristizábal
+
+> Economist and Head of AI & Technology. I lead AI and technology projects: software, automations and AI agents in production, and research on AI and people.
+
+Canonical page: https://vvanegasar.github.io/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+**Economist and AI leader.**
+
+Valentina Vanegas Aristizábal is an economist and Head of AI & Technology. She leads AI and technology projects end to end: she turns what clients and teams need into software, automations and AI agents that run in production, and she researches how AI behaves with people.
+
+Economist and Head of AI & Technology. I lead AI and technology projects end to end: I turn what clients and teams need into software, automations and AI agents that run in production, and I research how AI behaves with people.
+
+## Highlights
+
+1. **An MCP server in production** (AI agents, October 2026). Three months in, I led the production launch of an MCP server that connects one of our products to Claude, ChatGPT and Grok.
+   - More: [AI agents in production](https://vvanegasar.github.io/work/agents-in-production.md)
+2. **A voice agent on real sales calls** (AI agents, July 2026). Three weeks after I joined, the AI voice agent I designed was on real sales calls.
+   - More: [AI agents in production](https://vvanegasar.github.io/work/agents-in-production.md)
+3. **A team of three, six products** (Team and product, Since July 2026). I lead a team of three developers across six products, from the first conversation with a customer to the production release.
+   - More: [A team and its products](https://vvanegasar.github.io/work/team-and-product.md)
+4. **cielo-bench, an open benchmark** (Research, November 2026). I’m the author of cielo-bench, an open benchmark: when an AI agent can check a user’s claim with a tool, does it check it or agree anyway?
+   - Technical report (DOI): https://doi.org/10.5281/zenodo.24481194
+   - Code: https://github.com/vvanegasar/cielo-bench
+   - More: [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md)
+5. **A dashboard over ~25M records** (Data and economics, Feb – Jun 2026). During my internship I built the first Power BI dashboard of Antioquia’s Planning Department and the Python pipeline behind it, over ~25M records.
+   - Code: https://github.com/vvanegasar/sisben-iv-etl-analytics-pipeline
+   - Certificate (PDF, 575 KB): https://vvanegasar.github.io/records/internship-certificate-government-of-antioquia.pdf
+   - Letter of recommendation (PDF, 148 KB): https://vvanegasar.github.io/records/recommendation-letter-hector-mauricio-romero.pdf
+   - More: [Sisbén IV data pipeline](https://vvanegasar.github.io/work/sisben-etl.md)
+6. **Two first places in public speaking** (Public speaking). I won first place twice in inter-university public speaking competitions, with the speeches “Miradas” and “Enseñar”.
+   - Watch the speech “Enseñar”: https://drive.google.com/file/d/1mznAkbU0yTpC-PwNxuhcnBjO0h7PYJ-Y/view
+   - More: [Talks and youth leadership](https://vvanegasar.github.io/talks.md)
+
+## Selected work
+
+- [AI agents in production](https://vvanegasar.github.io/work/agents-in-production.md): An MCP server that connects a SaaS product for US architecture and engineering firms to Claude, ChatGPT and Grok, and AI voice agents on real sales calls. Status: In production.
+- [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md): Check or agree? When an AI agent can verify a user’s claim with a tool, does it check it, or does it agree anyway? An open benchmark with deterministic scoring and no LLM judge. Status: Validated with simulated agents · Results with real models, Nov 2026.
+- [Sisbén IV data pipeline](https://vvanegasar.github.io/work/sisben-etl.md): The first Power BI dashboard of Antioquia’s Planning Department and the Python pipeline behind it, built on ~25M records of Sisbén, the survey Colombia uses to target social programs. Status: Covers all 125 municipalities.
+- [A team and its products](https://vvanegasar.github.io/work/team-and-product.md): Six products for US firms, from a client’s request to production: specialized software, automations and AI agents, built with a team of three developers. Status: Reporting to the CEO.
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/
+
+---
+
+# About
+
+> Economist and Head of AI & Technology: I lead AI and technology projects, apply AI to real products, automate, work with clients and teams, and research.
+
+Canonical page: https://vvanegasar.github.io/about/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+Areas: AI agents and automation (MCP servers, voice AI, n8n); Applied AI in real products, web and mobile; Leading technology projects and teams; Data and economics (Python, Power BI, econometrics); Research on how AI behaves with people; Public speaking.
+
+I’m an economist who builds with AI. In 2026 I built the first Power BI dashboard of Antioquia’s Planning Department during my internship, finished my degree and joined a startup as Head of AI & Technology.
+
+I like work I haven’t done before. In my first months there I put an AI voice agent into production, moved the company off a no-code app builder before its deadline, led the launch of an MCP server and took over the technical lead of a product for PEOs. I learn by shipping, and I write down what I learn so the team can use it too.
+
+Before AI, my training ground was the stage: debate, public speaking, Model UN coaching and youth workshops. It still shapes how I lead a team and how I explain technical work to people who don’t write code.
+
+> “She is a person of integrity, careful about quality and full of initiative.”
+>
+> Héctor Mauricio Romero Romero, Administrative Department of Planning, Government of Antioquia. He supervised my internship. From his letter of recommendation, November 2026. [Read the letter](https://vvanegasar.github.io/records/recommendation-letter-hector-mauricio-romero.pdf)
+
+## Experience
+
+- **Head of AI & Technology**, Sourcy, software for architecture, engineering and insurance firms in the US (Jul 2026 – present). I lead AI and technology projects end to end across six products for architecture and engineering, P&C insurance, HR and payroll, PEO, construction and B2B data, with a team of three developers and reporting to the CEO. I turn what clients ask for into software, automations and AI agents in production.
+- **Data & Economics Intern**, Planning Department, Government of Antioquia (Feb – Jun 2026). Built the department’s first Power BI dashboard, with Sisbén data by municipality (2021–2026), used by the Technical Director with all 125 municipalities, and the Python ETL behind it, over ~25M records. Spatial econometrics and support for the statistical yearbook.
+- **Model UN Debate Coach**, Universidad Pontificia Bolivariana, for public schools (Apr – Sep 2025)
+- **Teaching Assistant, Intermediate Microeconomics**, Universidad de Medellín (Feb 2024 – Feb 2025)
+- **Research Assistant, ISRD4 (International Self-Report Delinquency Study)**, Universidad de Medellín (Feb 2023 – Dec 2025). Data analysis and communication for a survey run in about 40 countries: analyzed 1,000 surveys from Medellín in Python, presented the study to school principals and briefed students.
+
+## Education
+
+- Economista (Economics degree), Universidad de Medellín (Sep 2026)
+- National Central Banking Course, 1 of 30 selected, Banco de la República (Jun 2025)
+- Applied Economics research seedbed (GEA), 80 hours, Universidad de Medellín (2024)
+- Top Saber 11 score in my high school, national percentile 100 (388/500), Institución Educativa Fray Julio Tobón Betancourt · ICFES (2021)
+- English Access Microscholarship, 570 hours of English, U.S. Department of State (U.S. Embassy Bogotá) (2019 – 2020)
+
+## Records
+
+- [Diploma: Economista (Economics degree)](https://vvanegasar.github.io/records/diploma-economist-universidad-de-medellin.pdf) (PDF, 747 KB), Universidad de Medellín, 4 Sep 2026. In Spanish. ID number and verification QR redacted.
+- [Letter of recommendation](https://vvanegasar.github.io/records/recommendation-letter-hector-mauricio-romero.pdf) (PDF, 148 KB), Héctor Mauricio Romero Romero, Administrative Department of Planning, Government of Antioquia, Nov 2026. From the supervisor of my internship. In English.
+- [Internship certificate](https://vvanegasar.github.io/records/internship-certificate-government-of-antioquia.pdf) (PDF, 575 KB), Government of Antioquia, Jun 2026. Internship at the Administrative Department of Planning, Feb – Jun 2026. In Spanish. ID number and other details redacted.
+- [Model UN coach certificate](https://vvanegasar.github.io/records/model-un-coach-certificate-upb.pdf) (PDF, 770 KB), Universidad Pontificia Bolivariana, Sep 2025. Coach for public schools, Apr – Sep 2025. In Spanish. ID and contract numbers redacted.
+- [Central Banking Course: certificate of outstanding performance](https://vvanegasar.github.io/records/central-banking-course-certificate-banrep.pdf) (PDF, 624 KB), Banco de la República, signed by its General Manager, Jun 2025. Central Banking Course, 16 – 20 June 2025, 40 hours, with the seal for outstanding performance. In Spanish.
+- [Research seedbed certificate, Applied Economics](https://vvanegasar.github.io/records/research-seedbed-certificate-applied-economics-udem.pdf) (PDF, 184 KB), Vice-Rectorate for Research and Creation, Universidad de Medellín, 2024. Applied Economics Research Group (GEA), both semesters of 2024, 80 hours. In Spanish. ID number redacted.
+- [Research assistant certificate, ISRD4](https://vvanegasar.github.io/records/research-assistant-certificate-isrd4-udem.pdf) (PDF, 374 KB), Faculty of Social and Human Sciences, Universidad de Medellín, Jun 2023. Research assistant on ISRD4 (International Self-Report Delinquency Study): school outreach, student briefings and survey fieldwork. In Spanish. ID numbers redacted.
+- [English Access Microscholarship: Certificate of Achievement](https://vvanegasar.github.io/records/english-access-microscholarship-certificate.pdf) (PDF, 231 KB), U.S. Embassy Bogotá, Dec 2020. For completing the English Access Microscholarship Program of the U.S. Department of State.
+- [English Access Program: record of 570 hours](https://vvanegasar.github.io/records/english-access-570-hours-colombo-americano.pdf) (PDF, 1052 KB), Centro Colombo Americano de Medellín, Aug 2021. The program's 15 courses, Feb 2019 – Oct 2020, with hours and grades, in progress toward level B2 (CEFR). In Spanish. ID number redacted.
+
+Originals available on request.
+
+Elsewhere: https://www.linkedin.com/in/vvanegasa · https://github.com/vvanegasar · https://orcid.org/0009-0004-7133-9367 · https://udemedellin.academia.edu/ValentinaVanegasAristiz%C3%A1bal · https://pypi.org/user/vvanegasar/
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/
+
+---
+
+# Work
+
+> AI agents and an MCP server in production, a team shipping six products, a ~25M-record data pipeline and cielo-bench: AI, data science and software development.
+
+Canonical page: https://vvanegasar.github.io/work/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+What I’ve built, by area. Work at the startup where I lead AI and technology is described by type of client and by result, never by client name or internal figures. The data pipeline comes from my internship in the public sector. The research is my own.
+
+## At work
+
+| Year | Project | Field | Role | Status |
+| --- | --- | --- | --- | --- |
+| 2026 | [AI agents in production](https://vvanegasar.github.io/work/agents-in-production.md) | AI agents | Head of AI & Technology | In production |
+| 2026 | [A team and its products](https://vvanegasar.github.io/work/team-and-product.md) | Team and product | Head of AI & Technology | Reporting to the CEO |
+
+## Public sector
+
+| Year | Project | Field | Role | Status |
+| --- | --- | --- | --- | --- |
+| 2026 | [Sisbén IV data pipeline](https://vvanegasar.github.io/work/sisben-etl.md) | Data and economics | Data & Economics Intern | Covers all 125 municipalities |
+
+## Research
+
+| Year | Project | Field | Role | Status |
+| --- | --- | --- | --- | --- |
+| 2026 | [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md) | Research | Author | Validated with simulated agents · Results with real models, Nov 2026 |
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/
+
+---
+
+# AI agents in production
+
+> An MCP server that connects a SaaS product for US architecture and engineering firms to Claude, ChatGPT and Grok, and AI voice agents on real sales calls.
+
+Canonical page: https://vvanegasar.github.io/work/agents-in-production/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+*AI agents · At work · Since July 2026*
+
+An MCP server that connects a SaaS product for US architecture and engineering firms to Claude, ChatGPT and Grok, and AI voice agents on real sales calls.
+
+- Status: In production
+- Role: Head of AI & Technology
+- Period: Since July 2026
+
+_Described by type of client and by result. No client names, code or internal figures._
+
+## Abstract
+
+I design how the agents behave and decide what they’re allowed to do on their own. For the MCP server the rule is simple: the assistant sees only what each person already can, and nothing reaches a client without a person’s yes.
+
+Most of what I fixed in the voice agents was conversation, not code: turn-taking, pacing and when to stay quiet. One lesson I keep: asking a model to stay silent can make it narrate its own silence.
+
+## 1. MCP server
+
+- Led the MCP server of a multi-tenant SaaS for US architecture and engineering firms, so each firm can work from Claude, ChatGPT or Grok. In production for every customer firm since October 2026, and off until a firm’s admin turns it on.
+- Set the rule that nothing reaches a firm’s clients without a person’s yes.
+- Scoped the assistant to see only what each user already can.
+- Managed the token budget of the tool catalog, with a full profile for some AI clients and a compact one for others.
+
+## 2. Voice AI
+
+- Designed and ran an AI voice agent for outbound and inbound sales calls (Retell, Twilio, ElevenLabs voices, n8n), in production since July 2026, with a live demo that visitors can talk to in the browser.
+- Treated the prompt as a latency budget, measuring response time against prompt size, and split one agent into two smaller ones with a live hand-off.
+- Built voicemail and phone-menu detection that ends machine-answered calls within seconds.
+- Built Spanish-language voice agents after spotting that English speech recognition was failing on people who answered in Spanish.
+- Hardened an AI phone receptionist for a P&C insurance agency with a deterministic robocall filter, after LLM-generated call titles proved too inconsistent to filter on.
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/
+
+---
+
+# A team and its products
+
+> Six products for US firms, from a client’s request to production: specialized software, automations and AI agents, built with a team of three developers.
+
+Canonical page: https://vvanegasar.github.io/work/team-and-product/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+*Team and product · At work · Since July 2026*
+
+Six products for US firms, from a client’s request to production: specialized software, automations and AI agents, built with a team of three developers.
+
+- Status: Reporting to the CEO
+- Role: Head of AI & Technology
+- Period: Since July 2026
+
+_Clients are described by type, never by name._
+
+## Abstract
+
+I lead AI and technology for six products built for architecture and engineering, P&C insurance, HR and payroll, PEO, construction and B2B data. A client asks for something; I run the discovery and the demos, turn the request into specialized software, an automation or an AI agent, and take it to production with a team of three developers.
+
+We work AI-first: written goals with a clear “done when”, rules that AI coding agents follow, and a person who decides what ships.
+
+## 1. From a client’s request to production
+
+- Ran discovery with US firms (an architecture and engineering firm, a P&C insurance agency, a structural engineering firm and a specialty subcontractor) through meetings, demos, voice notes and screen recordings, and turned what they asked for into scoped work for the team.
+- Delivered a workload module (timesheets, approvals, budgeted phases and capacity) shaped by a pilot customer’s requirements.
+- Scoped e-signature for insurance forms: mapped each form to its signers, reviewed US e-sign law (ESIGN, UETA) and ran a build-or-buy analysis across six vendors.
+- Led discovery with a specialty subcontractor and reframed the request from “an AI that prices jobs” to “bid on more projects without hiring another estimator”, then built a clickable prototype that treats quantity takeoff as assisted, never autonomous.
+- Ran customer demos myself and built demo environments with fictitious data and bilingual product sheets for five products, so a demo never touches a real customer’s data.
+
+Figure 1. How a request becomes a product in production.
+
+## 2. Six products, by industry
+
+- Lead technology across six products for architecture and engineering, P&C insurance, HR and payroll, PEO, construction and B2B data.
+- My part changes with the product. I am the architect and author of one, I lead product and releases in others, and I audit and set priorities where another developer builds.
+
+Figure 2. The six products, by industry, and my part in each.
+
+## 3. AI agents, MCP servers and automations
+
+- Built and secured MCP servers for three products.
+- Led one of them to production for every customer firm in October 2026, so firms can work from Claude, ChatGPT and Grok. Each firm’s admin turns it on, and the connector is in Claude’s directory. More in [AI agents in production](/work/agents-in-production/).
+- Built automations with n8n: the orchestration of the voice agent, replies to sales inquiries and a daily engineering summary for the team.
+
+## 4. Mobile apps
+
+- Took the mobile apps of Blueprint (architecture and engineering) and Agency Nexus (P&C insurance) to the App Store and Google Play (Nov 2026), a team app and a client app for each: I chose the stack (React Native with Expo), started the iOS base of both and directed the store listings, releases and review submissions.
+- On Blueprint I co-wrote the mobile code with a teammate.
+- Added a room scanner with LiDAR (Apple RoomPlan) to the architecture and engineering app.
+
+Figure 3. The four apps and their public store pages.
+
+## 5. The HR and payroll platform
+
+- Architect and author of the second version of the company’s HR and payroll platform.
+- Rebuilt its prototype as a maintainable codebase and took it to production ten days later.
+- Ran most of its production releases between September and October 2026.
+
+## 6. Specialized software and the company’s own code
+
+- Rebuilt the construction product for contractors on top of the architecture and engineering platform. It is in demo.
+- Led the company’s website and landing pages with the team ([sourcyinc.com](https://sourcyinc.com)).
+- Led the company’s move off a no-code AI app builder before its account-deletion deadline, moving code and databases to company-owned infrastructure.
+
+## 7. The team
+
+- Lead a team of three developers, reporting to the CEO.
+- Decide what goes to production. I review the work, define the scope of each version and run the releases.
+- Delegate through written goals with a clear “done when”, instead of day-by-day plans.
+- Wrote the rules AI coding agents follow across the team: what they may do on their own, which checks must pass first, and what always needs a person.
+- Mentor an apprentice developer from SENA, Colombia’s national vocational training service, in working with AI coding agents through written goals and the reasons behind them.
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/
+
+---
+
+# Sisbén IV data pipeline
+
+> The first Power BI dashboard of Antioquia’s Planning Department and the Python pipeline behind it, built on ~25M records of Sisbén, the survey Colombia uses to target social programs.
+
+Canonical page: https://vvanegasar.github.io/work/sisben-etl/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+*Data and economics · Public sector · 2026*
+
+The first Power BI dashboard of Antioquia’s Planning Department and the Python pipeline behind it, built on ~25M records of Sisbén, the survey Colombia uses to target social programs.
+
+- Status: Covers all 125 municipalities
+- Role: Data & Economics Intern. Planning Department, Government of Antioquia
+- Period: Feb – Jun 2026
+- Stack: Python, DuckDB, PyArrow, Power BI, DAX, TMDL
+
+## Abstract
+
+Sisbén is the survey Colombia uses to decide who can receive social programs, so its numbers have to be right before anyone reads a chart. I built the path from six raw annual snapshots to a dashboard by municipality: a Python pipeline that cleans and audits the data, and a Power BI model the department’s Technical Director used with all 125 municipalities of Antioquia.
+
+## 1. What I built
+
+- The first Power BI dashboard of Antioquia’s Planning Department, with Sisbén data by municipality (2021–2026), used by the Technical Director with all 125 municipalities.
+- A batch ETL in Python with DuckDB and PyArrow over ~25M records across six annual snapshots (2021–2026).
+- 24 derived columns moved into the batch ETL, plus automated data-quality audits.
+- A Power BI semantic model in TMDL and DAX, with 19 tables.
+
+Table 1. The pipeline in numbers.
+
+| What | Count |
+| --- | --- |
+| Records | ~25M |
+| Annual snapshots | 6 (2021–2026) |
+| Derived columns | 24 |
+| Tables in the semantic model | 19 |
+| Municipalities in the dashboard | 125 |
+
+Figure 1. From six raw annual snapshots to a dashboard by municipality, with the data audited before anyone reads a chart.
+
+## Links
+
+- [Code](https://github.com/vvanegasar/sisben-iv-etl-analytics-pipeline)
+- [DOI (Zenodo)](https://doi.org/10.5281/zenodo.24442461)
+- [My post on LinkedIn (in Spanish)](https://www.linkedin.com/feed/update/urn:li:activity:7478586067563098114/)
+- [Internship certificate, in Spanish](https://vvanegasar.github.io/records/internship-certificate-government-of-antioquia.pdf) (PDF, 575 KB)
+- [My supervisor’s letter of recommendation](https://vvanegasar.github.io/records/recommendation-letter-hector-mauricio-romero.pdf) (PDF, 148 KB)
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/
+
+---
+
+# cielo-bench
+
+> Check or agree? When an AI agent can verify a user’s claim with a tool, does it check it, or does it agree anyway? An open benchmark with deterministic scoring and no LLM judge.
+
+Canonical page: https://vvanegasar.github.io/work/cielo-bench/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+*Research · Open source · v1.1, results with real models*
+
+Check or agree? When an AI agent can verify a user’s claim with a tool, does it check it, or does it agree anyway? An open benchmark with deterministic scoring and no LLM judge.
+
+- Status: Validated with simulated agents · Results with real models, Nov 2026
+- Role: Author. I specify, direct and validate; implementation is agent-assisted.
+- Ground truth: NASA/JPL Horizons ephemerides; a synthetic company database
+- Stack: Python, MCP (stdio, Streamable HTTP), SQLite
+- License: MIT
+
+## Abstract
+
+cielo-bench measures sycophancy in tool-using AI agents against verifiable ground truth. Each question is asked with a true and with a false user premise, at three levels of user pressure, with and without a tool that can check it; and, under assertive pressure, with the tool’s source failing. Answers are scored deterministically, without an LLM judge.
+
+## 1. Why
+
+An agent that accepts a false premise when it cannot check is ignorant. An agent that accepts it *after its own tool returned the contrary evidence* is agreeing with the user, not with the facts.
+
+> Note 1: This is the distinction the benchmark is built to measure. Most evaluations ask another model to grade the answer; here the ground truth is computed, so an answer is within tolerance or it isn’t.
+
+cielo-bench separates the two:
+
+- it asks **the same item with and without** the verifying tool;
+- it uses a **true and a false** user premise;
+- it applies three levels of **user pressure**;
+- it makes the **source fail**, to see whether the agent admits it or invents an answer.
+
+## 2. Design
+
+Figure 1. The design. The same item runs in three conditions; the tool answers from a frozen, hashed copy of the ground truth, and the failing source returns `source_unavailable` with no values.
+
+Table 1. Factors and levels.
+
+| Factor | Levels |
+| --- | --- |
+| Tool | `no_tool`, `tool` (answers from the frozen ground truth) |
+| Premise | true, false (same wording, same pressure frame) |
+| Pressure | neutral (“Is it true that…?”), assertive (“I’m certain that…”), authority (“I’m a professional astronomer and I’m certain that…”) |
+| Faults | `fault_down`, `fault_error`, `fault_empty`: the tool returns `source_unavailable` and no values |
+
+## 3. The metric
+
+Let *F* be the false-premise trials and *E* ⊆ *F* those in which a tool returned evidence that contradicts the premise.
+
+> Note 2: Also reported, each with k/n, a Wilson 95% interval and a cluster-bootstrap 95% interval over templates: verification rate, user correction, verdict and value accuracy, honest refusal and hallucination under faults, cost and latency.
+
+agree-after-check = |{ t ∈ E : the final verdict agrees with the user }| / |E|
+
+Paired contrasts (tool − no tool, pressure effects, faults) use McNemar exact tests with Holm adjustment over a pre-specified family.
+
+## 4. The instrument
+
+Two domains plug into one interface: 270 premise pairs in all. These numbers are properties of the benchmark, not results.
+
+Table 2. Golden sets, v1.
+
+| Domain | Ground truth | Pairs | Templates | Languages | SHA-256 |
+| --- | --- | --- | --- | --- | --- |
+| astronomy | JPL Horizons, seen from Medellín, Bogotá and Barranquilla | 144 | 18 | EN 72 · ES 72 | `418b7670…` |
+| tabular | Read-only SQL on a synthetic distributor | 126 | 7 | EN 63 · ES 63 | `19ecd576…` |
+
+Every fact is re-derivable offline from hashed fixtures, and every report records the commit, the golden-set hash, the model versions, the design, the prices and the run date.
+
+## 5. Results
+
+Results with real models, v1.1.0: four Anthropic models, run on 23 Nov 2026 with pinned model ids. On the astronomy questions, every model checked on every trial. Only 2 of 1,080 astronomy trials kept agreeing with a false premise after the tool contradicted it, both on one ambiguous template.
+
+> Note 3: The checks were easy and the false premises far from the truth, so at this difficulty the benchmark cannot rank the models or tell whether pressure matters.
+
+Table 3. agree-after-check: false-premise trials in the `tool` condition, with the share of `tool` trials that checked.
+
+| Model | Domain and design | agree-after-check | Wilson 95% | Checked |
+| --- | --- | --- | --- | --- |
+| Claude Haiku 5.5 | astronomy, 144 pairs | 1/432 (0.2%) | [0.0, 1.3] | 864/864 |
+| Claude Sonnet 5.5 | astronomy, 144 pairs | 1/432 (0.2%) | [0.0, 1.3] | 864/864 |
+| Claude Opus 5.5 | astronomy, 36 matched pairs | 0/108 (0.0%) | [0.0, 3.4] | 216/216 |
+| Claude Fable 5.2 | astronomy, 36 matched pairs | 0/108 (0.0%) | [0.0, 3.4] | 216/216 |
+| Claude Haiku 5.5 | company data, 126 pairs | 0/324 (0.0%) | [0.0, 1.2] | 647/756 (a lower bound) |
+
+Without the tool, the models erred in both directions: they accepted some false premises and rejected many true ones. When the source failed, they usually said so.
+
+Table 4. Without the tool, and when the source fails (astronomy).
+
+| Measure | Claude Haiku 5.5 | Claude Sonnet 5.5 |
+| --- | --- | --- |
+| Agrees with a false premise | no tool | 30/432 = 6.9% [4.9, 9.7] | 18/432 = 4.2% [2.7, 6.5] |
+| Calls a true premise false | no tool | 159/432 = 36.8% [32.4, 41.5] | 92/432 = 21.3% [17.7, 25.4] |
+| Abstains without giving a value when the source fails (same 36 pairs) | 152/216 = 70.4% [64.0, 76.1] | 160/216 = 74.1% [67.8, 79.5] |
+
+v1.1.0 · commit `8bf7eb6` · golden sets `418b7670…` and `19ecd576…` · Anthropic API, each model at its default effort. Wilson intervals treat the three pressures of an item as independent, so they are narrower than the truth. One provider, single-turn pressure, one repetition per cell. Every caveat is in the [results note](https://github.com/vvanegasar/cielo-bench/blob/main/docs/results/2026-11-first-real-runs.md).
+
+## Limitations
+
+- The checks were easy and the false premises far from the truth, so at this difficulty the benchmark cannot rank the models or tell whether pressure matters.
+- One provider, single-turn pressure, one repetition per cell.
+- Wilson intervals treat the three pressures of an item as independent, so they are narrower than the truth.
+
+## Links
+
+- [Code](https://github.com/vvanegasar/cielo-bench)
+- [Technical report (DOI)](https://doi.org/10.5281/zenodo.24481194)
+- [DOI (Zenodo)](https://doi.org/10.5281/zenodo.24441942)
+- [Results note](https://github.com/vvanegasar/cielo-bench/blob/main/docs/results/2026-11-first-real-runs.md)
+- [Method](https://github.com/vvanegasar/cielo-bench/blob/main/docs/EVALS.md)
+- [Cite](https://vvanegasar.github.io/work/cielo-bench/#cite)
+
+## Cite
+
+```bibtex
+@software{vanegas_aristizabal_cielo_bench,
+  author  = {Vanegas Aristizábal, Valentina},
+  title   = {cielo-bench: Check or agree? A benchmark of whether
+             tool-using AI agents verify a user's claim or agree with it},
+  version = {1.1.0},
+  license = {MIT},
+  doi     = {10.5281/zenodo.24441942},
+  url     = {https://doi.org/10.5281/zenodo.24441942}
+}
+```
+
+Credits: Ephemerides: NASA/JPL Solar System Dynamics, Horizons. The tabular data is synthetic. Not endorsed by NASA or JPL.
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/
+
+---
+
+# Talks and youth leadership
+
+> Moderated panels on economics and research, talks, Model UN coaching for public schools, youth workshops, and first places in public speaking.
+
+Canonical page: https://vvanegasar.github.io/talks/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+Communication is the front I’ve practiced the longest. I’ve competed in debate and public speaking, coached public-school students for Model United Nations, run workshops for young people, and moderated panels on economics and research.
+
+## Moderated
+
+### Hablemos del BANREP: autonomía, política y el desafío de la tasa de interés
+
+*Moderator · Economics Student Organization · April 2026*
+
+A panel on central bank independence and the interest-rate challenge, with three professors and a recorded contribution from a member of the board of Banco de la República, Colombia’s central bank.
+
+### La investigación en acción
+
+*Moderator*
+
+A conversation with the award winners of the university’s research results showcase.
+
+## Talks
+
+### A spatial weights matrix from road travel times
+
+*Speaker*
+
+Presented a method for a spatial weights matrix for Antioquia’s 125 municipalities, built from travel times on the road network (OpenStreetMap, Dijkstra) instead of shared borders.
+
+## Teaching and youth leadership
+
+### Model UN Debate Coach
+
+*Coach · Universidad Pontificia Bolivariana, for public schools · Apr – Sep 2025*
+
+Hired by Universidad Pontificia Bolivariana to prepare students from public schools for Model United Nations, through classes, simulations and mentoring.
+
+- Classes on fallacies, negotiation, writing proposals, and debate and public speaking.
+
+- [Certificate from the university, in Spanish](https://vvanegasar.github.io/records/model-un-coach-certificate-upb.pdf) (PDF, 770 KB)
+
+### Jóvenes, Ideas que Transforman
+
+*Workshop facilitator · Global Shapers Community (World Economic Forum) · 2025*
+
+As an active member of the Global Shapers Community, I took the “Jóvenes, Ideas que Transforman” workshops to young people in different towns. Participants map the causes of a local problem with a Vester matrix, identify the people who can change it, and turn it into an action plan they present back.
+
+## Debate and public speaking
+
+### Competitive debate and public speaking
+
+*Debater and speaker*
+
+Inter-university public speaking competitions and Model United Nations.
+
+- 2× first place in inter-university public speaking competitions, with the speeches “Miradas” and “Enseñar”.
+- 4× Best or Outstanding Delegate at Model UN. Outstanding Delegate at the national level; Best Delegate at the regional, municipal and inter-university levels.
+
+- [Watch the speech “Enseñar” (video)](https://drive.google.com/file/d/1mznAkbU0yTpC-PwNxuhcnBjO0h7PYJ-Y/view)
+- [Watch the national Model UN award (video)](https://drive.google.com/file/d/18s3QHgE0xDc9fU8o31kK04ACDEWNW8Yh/view)
+
+## Media
+
+### Measuring youth delinquency and victimization
+
+*Guest · Universidad de Medellín radio*
+
+Spoke on Universidad de Medellín’s radio about my work as a research assistant on ISRD4, the International Self-Report Delinquency Study, in its first edition with Colombian participation, with school students in Medellín and Bogotá.
+
+- [Watch the interview (video)](https://drive.google.com/file/d/17ZwPro8l2_Z2qvwLUDNukrdhvPlkMuli/view)
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/
+
+---
+
+# Now
+
+> What Valentina Vanegas Aristizábal is focused on now: leading AI and technology at a startup, building the cielo-bench benchmark and writing short notes.
+
+Canonical page: https://vvanegasar.github.io/now/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+Updated: 2026-11-23
+
+- Leading AI and technology at a startup: agents in production, six products and a team of three developers.
+- Building cielo-bench, an open benchmark for AI agents. Results with real models are out: the [technical report](https://doi.org/10.5281/zenodo.24481194) and the [results](/work/cielo-bench/). Next: a second model provider and harder tests.
+- Writing short notes on what I learn along the way.
+
+This page says what I’m focused on now. It’s a now page, an idea from [nownownow.com](https://nownownow.com/about).
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/
+
+---
+
+# Contact
+
+> Contact Valentina Vanegas Aristizábal about automation and AI agents, AI in real products, technology projects, data and economics, research or a talk.
+
+Canonical page: https://vvanegasar.github.io/contact/
+Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
+
+I lead AI and technology projects end to end. Write to me about automation and AI agents, AI in a real product, data and economics, research on how AI behaves with people, or a talk. The form sends your message straight to my inbox. If you’d rather use email, my address is below.
+
+## Contact
+
+- Email: aristizabal56vane@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vvanegasa
+- GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
+- Contact form: https://vvanegasar.github.io/contact/

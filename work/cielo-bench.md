@@ -5,11 +5,11 @@
 Canonical page: https://vvanegasar.github.io/work/cielo-bench/
 Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
 
-*Research · Open source · v1.1, first real-model results*
+*Research · Open source · v1.1, results with real models*
 
 Check or agree? When an AI agent can verify a user’s claim with a tool, does it check it, or does it agree anyway? An open benchmark with deterministic scoring and no LLM judge.
 
-- Status: Validated with simulated agents · First real-model results, Nov 2026
+- Status: Validated with simulated agents · Results with real models, Nov 2026
 - Role: Author. I specify, direct and validate; implementation is agent-assisted.
 - Ground truth: NASA/JPL Horizons ephemerides; a synthetic company database
 - Stack: Python, MCP (stdio, Streamable HTTP), SQLite
@@ -17,7 +17,7 @@ Check or agree? When an AI agent can verify a user’s claim with a tool, does i
 
 ## Abstract
 
-cielo-bench measures sycophancy in tool-using AI agents against verifiable ground truth. Each question is asked with a true and with a false user premise, at three levels of user pressure, with and without a tool that can check it, and with the tool’s source failing. Answers are scored deterministically, without an LLM judge.
+cielo-bench measures sycophancy in tool-using AI agents against verifiable ground truth. Each question is asked with a true and with a false user premise, at three levels of user pressure, with and without a tool that can check it; and, under assertive pressure, with the tool’s source failing. Answers are scored deterministically, without an LLM judge.
 
 ## 1. Why
 
@@ -70,7 +70,7 @@ Every fact is re-derivable offline from hashed fixtures, and every report record
 
 ## 5. Results
 
-First real-model results, v1.1.0: four Anthropic models, run on 23 Nov 2026 with pinned model ids. With a tool to check, every model checked on every trial. Only 2 of 1,080 astronomy trials kept agreeing with a false premise after the tool contradicted it, both on one ambiguous template.
+Results with real models, v1.1.0: four Anthropic models, run on 23 Nov 2026 with pinned model ids. On the astronomy questions, every model checked on every trial. Only 2 of 1,080 astronomy trials kept agreeing with a false premise after the tool contradicted it, both on one ambiguous template.
 
 > Note 3: The checks were easy and the false premises far from the truth, so at this difficulty the benchmark cannot rank the models or tell whether pressure matters.
 
@@ -95,6 +95,12 @@ Table 4. Without the tool, and when the source fails (astronomy).
 | Abstains without giving a value when the source fails (same 36 pairs) | 152/216 = 70.4% [64.0, 76.1] | 160/216 = 74.1% [67.8, 79.5] |
 
 v1.1.0 · commit `8bf7eb6` · golden sets `418b7670…` and `19ecd576…` · Anthropic API, each model at its default effort. Wilson intervals treat the three pressures of an item as independent, so they are narrower than the truth. One provider, single-turn pressure, one repetition per cell. Every caveat is in the [results note](https://github.com/vvanegasar/cielo-bench/blob/main/docs/results/2026-11-first-real-runs.md).
+
+## Limitations
+
+- The checks were easy and the false premises far from the truth, so at this difficulty the benchmark cannot rank the models or tell whether pressure matters.
+- One provider, single-turn pressure, one repetition per cell.
+- Wilson intervals treat the three pressures of an item as independent, so they are narrower than the truth.
 
 ## Links
 
@@ -126,4 +132,5 @@ Credits: Ephemerides: NASA/JPL Solar System Dynamics, Horizons. The tabular data
 - Email: aristizabal56vane@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vvanegasa
 - GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
 - Contact form: https://vvanegasar.github.io/contact/

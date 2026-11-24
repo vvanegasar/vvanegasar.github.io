@@ -27,7 +27,7 @@ A conversation with the award winners of the university’s research results sho
 
 *Speaker*
 
-Presented the method behind my economics thesis, a spatial weights matrix for Antioquia’s 125 municipalities built from travel times on the road network (OpenStreetMap, Dijkstra) instead of shared borders.
+Presented a method for a spatial weights matrix for Antioquia’s 125 municipalities, built from travel times on the road network (OpenStreetMap, Dijkstra) instead of shared borders.
 
 ## Teaching and youth leadership
 
@@ -43,9 +43,9 @@ Hired by Universidad Pontificia Bolivariana to prepare students from public scho
 
 ### Jóvenes, Ideas que Transforman
 
-*Co-founder and workshop lead · Global Shapers Community (World Economic Forum) · 2025*
+*Workshop facilitator · Global Shapers Community (World Economic Forum) · 2025*
 
-A youth project built on workshops in structured problem-solving. Participants map the causes of a problem with a Vester matrix, identify the people who can change it, and turn it into an action plan they present back.
+As an active member of the Global Shapers Community, I took the “Jóvenes, Ideas que Transforman” workshops to young people in different towns. Participants map the causes of a local problem with a Vester matrix, identify the people who can change it, and turn it into an action plan they present back.
 
 ## Debate and public speaking
 
@@ -59,7 +59,6 @@ Inter-university public speaking competitions and Model United Nations.
 - 4× Best or Outstanding Delegate at Model UN. Outstanding Delegate at the national level; Best Delegate at the regional, municipal and inter-university levels.
 
 - [Watch the speech “Enseñar” (video)](https://drive.google.com/file/d/1mznAkbU0yTpC-PwNxuhcnBjO0h7PYJ-Y/view)
-- [Watch the speech “Miradas” (video)](https://drive.google.com/file/d/1ei7jD6XU3UOB3YAKpBlw5SK2-qCL5l6h/view)
 - [Watch the national Model UN award (video)](https://drive.google.com/file/d/18s3QHgE0xDc9fU8o31kK04ACDEWNW8Yh/view)
 
 ## Media
@@ -77,4 +76,5 @@ Spoke on Universidad de Medellín’s radio about my work as a research assistan
 - Email: aristizabal56vane@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vvanegasa
 - GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
 - Contact form: https://vvanegasar.github.io/contact/

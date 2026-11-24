@@ -5,7 +5,7 @@
 Canonical page: https://vvanegasar.github.io/work/
 Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
 
-What I’ve built, front by front. Work at the startup where I lead AI and technology is described by type of client and by result, never by client name or internal figures. The data pipeline comes from my internship in the public sector. The research is my own.
+What I’ve built, by area. Work at the startup where I lead AI and technology is described by type of client and by result, never by client name or internal figures. The data pipeline comes from my internship in the public sector. The research is my own.
 
 ## At work
 
@@ -24,11 +24,12 @@ What I’ve built, front by front. Work at the startup where I lead AI and techn
 
 | Year | Project | Field | Role | Status |
 | --- | --- | --- | --- | --- |
-| 2026 | [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md) | Research | Author | Validated with simulated agents · First real-model results, Nov 2026 |
+| 2026 | [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md) | Research | Author | Validated with simulated agents · Results with real models, Nov 2026 |
 
 ## Contact
 
 - Email: aristizabal56vane@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vvanegasa
 - GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
 - Contact form: https://vvanegasar.github.io/contact/

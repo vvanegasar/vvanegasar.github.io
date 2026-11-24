@@ -21,10 +21,10 @@ I design how the agents behave and decide what they’re allowed to do on their 
 
 Most of what I fixed in the voice agents was conversation, not code: turn-taking, pacing and when to stay quiet. One lesson I keep: asking a model to stay silent can make it narrate its own silence.
 
-## 1. MCP server with a human approval layer
+## 1. MCP server
 
-- Led the MCP server of a multi-tenant SaaS for US architecture and engineering firms, so each firm can work from Claude, ChatGPT or Grok. In production for every customer firm since October 2026, off by default so each firm’s admin opts in.
-- Designed the human approval layer for agent actions, so nothing reaches a firm’s clients without a person’s yes in the app.
+- Led the MCP server of a multi-tenant SaaS for US architecture and engineering firms, so each firm can work from Claude, ChatGPT or Grok. In production for every customer firm since October 2026, and off until a firm’s admin turns it on.
+- Set the rule that nothing reaches a firm’s clients without a person’s yes.
 - Scoped the assistant to see only what each user already can.
 - Managed the token budget of the tool catalog, with a full profile for some AI clients and a compact one for others.
 
@@ -41,4 +41,5 @@ Most of what I fixed in the voice agents was conversation, not code: turn-taking
 - Email: aristizabal56vane@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vvanegasa
 - GitHub: https://github.com/vvanegasar
+- ORCID: https://orcid.org/0009-0004-7133-9367
 - Contact form: https://vvanegasar.github.io/contact/
