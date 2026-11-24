@@ -50,10 +50,14 @@
   </url>
   <url>
     <loc>https://vvanegasar.github.io/now/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://vvanegasar.github.io/now/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://vvanegasar.github.io/es/now/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vvanegasar.github.io/now/" />
+  </url>
+  <url>
+    <loc>https://vvanegasar.github.io/now/archive/</loc>
+    <lastmod>2026-11-18</lastmod>
   </url>
   <url>
     <loc>https://vvanegasar.github.io/contact/</loc>
@@ -111,7 +115,7 @@
   </url>
   <url>
     <loc>https://vvanegasar.github.io/es/now/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://vvanegasar.github.io/now/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://vvanegasar.github.io/es/now/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vvanegasar.github.io/now/" />
