@@ -44,7 +44,7 @@ This site is the canonical profile of Valentina Vanegas Aristizábal, also known
   - [Sisbén IV data pipeline](https://vvanegasar.github.io/work/sisben-etl.md): The first Power BI dashboard of Antioquia’s Planning Department and the Python pipeline behind it, built on ~25M records of Sisbén, the survey Colombia uses to target social programs.
   - [cielo-bench](https://vvanegasar.github.io/work/cielo-bench.md): Check or agree? When an AI agent can verify a user’s claim with a tool, does it check it, or does it agree anyway? An open benchmark with deterministic scoring and no LLM judge.
 - [Talks](https://vvanegasar.github.io/talks.md): Moderated panels on economics and research, talks, Model UN coaching for public schools, youth workshops, and first places in public speaking.
-- [About](https://vvanegasar.github.io/about.md): Economist and Head of AI & Technology: AI agents, MCP servers, data science and software development at a startup. Open to remote work and relocation.
+- [About](https://vvanegasar.github.io/about.md): Economist and Head of AI & Technology: AI agents, MCP servers, data science and software development at a startup.
 - [Contact](https://vvanegasar.github.io/contact.md): Contact Valentina Vanegas Aristizábal about AI agents, building products with a small team, data and economics, or a talk, by form, email or LinkedIn.
 
 ## Contact
@@ -52,7 +52,6 @@ This site is the canonical profile of Valentina Vanegas Aristizábal, also known
 - Email: aristizabal56vane@gmail.com
 - Contact form: https://vvanegasar.github.io/contact/
 - LinkedIn: https://www.linkedin.com/in/vvanegasa
-- Availability: Open to remote work, travel and relocation, anywhere in the world.
 
 ## Optional
 

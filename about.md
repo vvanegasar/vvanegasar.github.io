@@ -1,6 +1,6 @@
 # About
 
-> Economist and Head of AI & Technology: AI agents, MCP servers, data science and software development at a startup. Open to remote work and relocation.
+> Economist and Head of AI & Technology: AI agents, MCP servers, data science and software development at a startup.
 
 Canonical page: https://vvanegasar.github.io/about/
 Author: Valentina Vanegas Aristizábal (Head of AI & Technology)
@@ -12,8 +12,6 @@ I’m an economist who builds with AI. In 2026 I built the first Power BI dashbo
 I like fronts that are new to me. In my first months there I put an AI voice agent into production, moved the company off a no-code app builder before its deadline, led the launch of an MCP server and took over the technical lead of a product for PEOs. I learn by shipping, and I write down what I learn so the team can use it too.
 
 Before AI, my training ground was the stage: debate, public speaking, Model UN coaching and youth workshops. It still shapes how I lead a team and how I explain technical work to people who don’t write code.
-
-I’m open to remote work, travel and relocation, anywhere in the world.
 
 > “She is a person of integrity, careful about quality and full of initiative.”
 >
