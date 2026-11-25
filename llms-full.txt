@@ -444,6 +444,7 @@ v1.1.0 · commit `8bf7eb6` · golden sets `418b7670…` and `19ecd576…` · Ant
 
 ## Links
 
+- [Paper (PDF)](https://vvanegasar.github.io/papers/check-or-agree/)
 - [Code](https://github.com/vvanegasar/cielo-bench)
 - [Technical report (DOI)](https://doi.org/10.5281/zenodo.24481194)
 - [DOI (Zenodo)](https://doi.org/10.5281/zenodo.24441942)

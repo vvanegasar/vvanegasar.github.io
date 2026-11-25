@@ -37,7 +37,7 @@
   </url>
   <url>
     <loc>https://vvanegasar.github.io/work/cielo-bench/</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://vvanegasar.github.io/work/cielo-bench/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://vvanegasar.github.io/es/work/cielo-bench/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vvanegasar.github.io/work/cielo-bench/" />
@@ -69,6 +69,10 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vvanegasar.github.io/contact/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://vvanegasar.github.io/es/contact/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vvanegasar.github.io/contact/" />
+  </url>
+  <url>
+    <loc>https://vvanegasar.github.io/papers/check-or-agree/</loc>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://vvanegasar.github.io/es/</loc>
@@ -107,7 +111,7 @@
   </url>
   <url>
     <loc>https://vvanegasar.github.io/es/work/cielo-bench/</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://vvanegasar.github.io/work/cielo-bench/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://vvanegasar.github.io/es/work/cielo-bench/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vvanegasar.github.io/work/cielo-bench/" />
